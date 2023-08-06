@@ -1,0 +1,13 @@
+info6250.foodorderingapp.controller.LoginController=org.springframework.stereotype.Component
+info6250.foodorderingapp.controller.MenuController=org.springframework.stereotype.Component
+info6250.foodorderingapp.controller.OrderController=org.springframework.stereotype.Component
+info6250.foodorderingapp.controller.UserController=org.springframework.stereotype.Component
+info6250.foodorderingapp.dao.CartDao=org.springframework.stereotype.Component
+info6250.foodorderingapp.dao.ItemDao=org.springframework.stereotype.Component
+info6250.foodorderingapp.dao.OrderDao=org.springframework.stereotype.Component
+info6250.foodorderingapp.dao.RestaurantDao=org.springframework.stereotype.Component
+info6250.foodorderingapp.dao.UserDao=org.springframework.stereotype.Component
+info6250.foodorderingapp.validator.ItemValidator=org.springframework.stereotype.Component
+info6250.foodorderingapp.validator.LoginValidator=org.springframework.stereotype.Component
+info6250.foodorderingapp.validator.RestaurantValidator=org.springframework.stereotype.Component
+info6250.foodorderingapp.validator.UserValidator=org.springframework.stereotype.Component
